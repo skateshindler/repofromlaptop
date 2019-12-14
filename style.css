@@ -15,6 +15,11 @@ h1 {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 24px;
 }
 
 a {
@@ -22,7 +27,7 @@ a {
 }
 
 .container {
-    width: 1020px;
+    width: 1024px;
     margin: 0 auto;
 }
 
@@ -38,4 +43,10 @@ a {
 
 #contact-info {
     width: 30%;
+}
+
+#bio-image {
+    margin-right: 20px;
+    width: 200px;
+    height: 200px;
 }
